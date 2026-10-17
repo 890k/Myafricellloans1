@@ -1,0 +1,14 @@
+{
+  "name": "africell-sierra-leone-loans",
+  "version": "1.0.0",
+  "description": "Africell Money Sierra Leone Express Loans & Credit System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "telegraf": "^4.12.2",
+    "dotenv": "^16.0.3"
+  }
+}
